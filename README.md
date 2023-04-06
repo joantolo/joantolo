@@ -1,4 +1,4 @@
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jotolo2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,css,matlab,objective-c">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jotolo2&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=html,scss,css,matlab,objective-c,ruby">
 
 <p>
 Hi there! 👋 <br> I'm Joan and I'm a computer graphics and simulation software developer.
