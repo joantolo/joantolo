@@ -6,3 +6,4 @@ Hi there! 👋 <br> I'm Joan and I'm a computer graphics and simulation software
 
 [![Linkedin: joantolo](https://img.shields.io/badge/-joantolo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joantolo/)](https://www.linkedin.com/in/joantolo/)
 [![Youtube: joantolo](https://img.shields.io/badge/-joantolo-red?style=for-the-badge&logo=Youtube&logoColor=white&link=https://www.youtube.com/@joantolo_/)](https://www.youtube.com/@joantolo_)
+[![Website: joantolo](https://img.shields.io/badge/-joantolo-black?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.joantolo.com/)](https://www.joantolo.com/)
